@@ -10,6 +10,7 @@ docker-compose up -d
 ```
 
 Para testar o serviço de conversão, basta que você execute os seguintes comandos: 
+
 Entre no console do Rails
 ```docker
 docker-compose run bundle exec rails c
